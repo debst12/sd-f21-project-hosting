@@ -40,7 +40,7 @@ li {
 }
   
 .checked {
-    color: darkred;
+    color: gray;
     text-decoration: line-through;
 }
   
