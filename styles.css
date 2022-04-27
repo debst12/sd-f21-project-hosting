@@ -9,7 +9,7 @@ body {
     align-items: center;
     justify-content: center;
     background: lightgray;
-    font-family: sans-serif;
+    font-family: Jazz LET, fantasy;
 }
 
 main {
@@ -40,7 +40,7 @@ li {
 }
   
 .checked {
-    color: gray;
+    color: darkred;
     text-decoration: line-through;
 }
   
